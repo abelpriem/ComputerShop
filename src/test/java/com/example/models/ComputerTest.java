@@ -1,10 +1,8 @@
-package com.models;
+package com.example.models;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
-
-import com.example.models.Computer;
 
 class ComputerTest {
 

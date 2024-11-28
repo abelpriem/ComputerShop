@@ -1,4 +1,4 @@
-package com.models;
+package com.example.models;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -7,9 +7,6 @@ import java.util.List;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-
-import com.example.models.Computer;
-import com.example.models.Shop;
 
 public class ShopTest {
     Shop shop;
